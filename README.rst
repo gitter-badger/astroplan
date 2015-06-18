@@ -1,6 +1,10 @@
 astroplan
 =========
 
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/bmorris3/astroplan
+   :target: https://gitter.im/bmorris3/astroplan?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 Observation planning package for astronomers
 
 * Code: https://github.com/astroplanners/astroplan
